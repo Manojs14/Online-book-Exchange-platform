@@ -1,0 +1,7 @@
+127.0.0.1 - - [16/Jun/2024:10:15:00 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:10:15:05 +0530] "GET /Simple_login_rigester/ HTTP/1.1" 200 23368775
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:10:15:13 +0530] "GET /Simple_login_rigester/login.jsp HTTP/1.1" 200 2242
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:10:15:20 +0530] "POST /Simple_login_rigester/login HTTP/1.1" 200 3078
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:10:15:20 +0530] "GET /Simple_login_rigester/images/addimage.jpeg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:10:15:34 +0530] "POST /Simple_login_rigester/viewbook.jsp HTTP/1.1" 200 13021606
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:10:15:35 +0530] "GET /Simple_login_rigester/Store.jsp HTTP/1.1" 200 23373758
